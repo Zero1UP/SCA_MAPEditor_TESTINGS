@@ -1,0 +1,24 @@
+﻿'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\14.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll'. 
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'c:\users\dom\documents\visual studio 2015\Projects\SOCOMCA MAP Editor\SOCOMCA MAP Editor\bin\Debug\SOCOMCA MAP Editor.vshost.exe'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Net.Http\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Net.Http.dll'. Cannot find or open the PDB file.
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'C:\Windows\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll'. Cannot find or open the PDB file.
+The thread 0x467c has exited with code 0 (0x0).
+The thread 0x4cec has exited with code 0 (0x0).
+The thread 0x399c has exited with code 0 (0x0).
+'SOCOMCA MAP Editor.vshost.exe' (CLR v4.0.30319: SOCOMCA MAP Editor.vshost.exe): Loaded 'c:\users\dom\documents\visual studio 2015\Projects\SOCOMCA MAP Editor\SOCOMCA MAP Editor\bin\Debug\SOCOMCA MAP Editor.exe'. Symbols loaded.
+The thread 0x49e0 has exited with code 0 (0x0).
+The thread 0x494c has exited with code 0 (0x0).
+The thread 0x3ccc has exited with code 0 (0x0).
+The program '[20100] SOCOMCA MAP Editor.vshost.exe' has exited with code 0 (0x0).
